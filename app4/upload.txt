@@ -1,0 +1,13 @@
+public void uploadAll(string login, string password)
+        {
+            MegaApiClient client = new MegaApiClient();
+            try
+            {
+                client.Login(login, password);
+
+               
+
+                client.Logout();
+            }
+            catch(Exception ex) {  };
+        }

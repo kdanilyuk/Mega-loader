@@ -1,0 +1,17 @@
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\loader.csprojAssemblyReference.cache
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\app4.Properties.Resources.resources
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\loader.csproj.GenerateResource.cache
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\loader.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\app4.exe
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\app4.pdb
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\app4.exe.config
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\app4.exe
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\app4.pdb
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\MegaApiClient.dll
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\WebDriver.dll
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\MegaApiClient.xml
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kostya\source\repos\app4\app4\bin\Debug\WebDriver.xml
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\app4.Form1.resources
+C:\Users\Kostya\source\repos\app4\app4\obj\Debug\loader.csproj.CopyComplete
